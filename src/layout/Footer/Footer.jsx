@@ -4,5 +4,5 @@ export default function Footer() {
     <footer>
       <p><a href="https://github.com/lomokwa/practice-quiz-app">GitHub</a></p>
     </footer>
-  )
-}
+  );
+};

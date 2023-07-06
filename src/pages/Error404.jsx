@@ -5,5 +5,5 @@ export default function Error404() {
     <AppLayout>
       <h2>Error 404</h2>
     </AppLayout>
-  )
-}
+  );
+};

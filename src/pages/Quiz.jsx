@@ -8,7 +8,6 @@ export default function Quiz() {
       <h2>Quiz Page</h2>
       <QuizApp />
     </AppLayout>
-  )
-  
-}
+  );
+};
  

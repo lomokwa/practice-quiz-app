@@ -9,5 +9,4 @@ export default function NavMenu() {
       </ul>
     </nav>
   );
-  
-}
+};
