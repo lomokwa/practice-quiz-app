@@ -1,0 +1,76 @@
+[
+  {
+    "id": 1,
+    "question": "Whats the capital of France?",
+    "options": [
+      {
+        "answer": "Paris",
+        "isCorrect": true
+      },
+      {
+        "answer": "Quebec",
+        "isCorrect": false
+      },
+      {
+        "answer": "Lyon",
+        "isCorrect": false
+      },
+      {
+        "answer": "Dublin",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id":2,
+    "question": "What is the largest continent?",
+    "options": [
+      {
+        "answer": "America",
+        "isCorrect": false
+      },
+      {
+        "answer": "Oceania",
+        "isCorrect": false
+      },
+      {
+        "answer": "Europe",
+        "isCorrect": false
+      },
+      {
+        "answer": "Africa",
+        "isCorrect": false
+      },
+      {
+        "answer": "Asia",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id":3,
+    "question": "What country will host the 2024 Summer Olympic Games?",
+    "options": [
+      {
+        "answer": "Japan",
+        "isCorrect": false
+      },
+      {
+        "answer": "Korea",
+        "isCorrect": false
+      },
+      {
+        "answer": "France",
+        "isCorrect": true
+      },
+      {
+        "answer": "Brazil",
+        "isCorrect": false
+      },
+      {
+        "answer": "United States",
+        "isCorrect": false
+      }
+    ]
+  }
+]
