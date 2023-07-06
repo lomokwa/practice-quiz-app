@@ -18,7 +18,6 @@ export default function Card({ quizLength, questionId, handleAnswer, data }) {
             </li>
           );
         })}
-        ;
       </ul>
     </div>
   );
